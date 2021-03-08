@@ -84,5 +84,7 @@ Physical contamination is both unpleasant (because it can be seen by the consume
 * choking.
 
 **Chemical contamination** is caused when harmful chemicals are accidentally added to food – for example, by excessive use of pesticides, incorrect quantities of additives, careless use of cleaning chemicals. This is a cause of food poisoning. If it is your job is to sanitize salad or fruit using chlorine-based tablets or liquids, it is vital to ensure that the instructions are followed exactly.
+
 There have been a number of food poisoning incidents where chemical residues have remained on food and burned the mouths of consumers.
+
 Chemical contamination can also be caused by metals – for example, when food comes into contact with unsuitable pans or containers or when soil and water is contaminated by industrial pollution and metals are absorbed by animals, fish or crops. In the short term, chemical contamination may cause severe vomiting, but in the long term, it may lead to serious illnesses – such as cancer – and damage to organs such as the liver, kidneys and brain.
