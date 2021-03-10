@@ -1,5 +1,5 @@
 ---
-Title: Module 1
+title: Module 1
 nav_order: 2
 ---
 ## Food safety definitions
