@@ -24,13 +24,13 @@ Food poisoning
 : Any illness caused by eating contaminated food.
 
 Food handler
-:Anyone whose work involves food, and whose action or inaction could damage the safety of food.
+: Anyone whose work involves food, and whose action or inaction could damage the safety of food.
 
 Food safety
-:The protection of consumer health and well-being by protecting food from anything that could cause harm.
+: The protection of consumer health and well-being by protecting food from anything that could cause harm.
 
 Legislation
-:The general term for laws and regulations.
+: The general term for laws and regulations.
 
 ## The benefits of food safety
 
