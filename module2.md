@@ -1,3 +1,8 @@
+---
+title: Food Safety Hazards and Risks
+nav_order: 3
+---
+
 ## Physical and Chemical Contamination
 
 **What is a ‘contaminant’?**
