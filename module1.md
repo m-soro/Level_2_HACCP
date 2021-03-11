@@ -1,5 +1,5 @@
 ---
-title: Module 1
+title: Introduction to food safety
 nav_order: 2
 ---
 ## Food safety definitions
