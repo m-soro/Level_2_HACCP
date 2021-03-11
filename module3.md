@@ -1,3 +1,7 @@
+---
+title: Controlling Bacterial Contamination
+nav_order: 4
+---
 ## Multiplication of Bacteria
 
 Bacteria are the most common cause of food poisoning. Bacteria multiply by a process known as **binary fission** (dividing in two) – one bacterium becomes two bacteria, two become four, four become eight and so on. Under ideal conditions, bacteria can double every 10 to 20 minutes.
