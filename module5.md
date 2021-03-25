@@ -100,3 +100,143 @@ To prevent physical contamination – buttons can fall off if not securely faste
 ### Methods of preservation
 After time all foods will decompose due to the action of spoilage micro-organisms. The shelf life of food can be extended by preservation. There are a number of different methods of preservation, but they are all based on the same principle – **to remove one or more of the requirements for bacterial multiplication (food, moisture, warmth and time)**.
 
+* Drying - removes moisture
+* Freezing - removes warmth and moisture. At and below -18C water is tightly bound that it is unavaibale for bacterial multiplication.
+* Chilling - removes warmth.
+* Pickling and Preserving - Pickling(Alcohol, vinegar), Preserving(sugar) removes moisture by 'locking it' away chemically.
+* Vaccuum or Modified Athmosphere Packaging(MAP) - removes the oxygen for bacterial growth. MAP removes oxygen by replacing it with other gasses that prevents bacterial growth.
+* UHT or canning - Ultra heat treament or canning kills pathogenic and spoilage micro organisms.
+* Smoking - removes moisture and the chemicals in smoke kills micro organisms. 
+
+## Preservation of food and date-marking
+
+Storing preserved food
+
+Even though a food may have been preserved by one of the methods you have just seen, this may not be enough to prevent spoilage. Without the correct storage conditions, even preserved food can go off.
+
+
+Things to be careful of
+
+Be careful of the following:
+
+1. If a high-risk food is vacuum packed, always store it in a fridge. (People often think that vacuum-packed foods can be kept at ambient or room temperature, but most cannot. This is because despite oxygen being removed or substituted, some micro-organisms can still multiply and spoil the food)
+
+2. Once preserved food has been opened, if it is a high-risk food, it will need stored in a refrigerator. (For instance, salami may have a six-month shelf life at ambient temperatures because it has a high level of acid and low level of moisture. Once it is cut, however, it will need storing in the fridge and using up quickly: The six-month shelf life no longer applies)
+
+3. Keep dry food in airtight containers, away from moisture. (UHT, canned and pickled foods can be kept in a dry store)
+
+4. Always check the storage instructions on the food label.
+
+## Best-before date
+
+Best-before dates usually appear on food that has a longer shelf-life, particularly when it is stored as recommended. It is not an automatic offence to sell food past its best-before dates, but its quality and safety may be compromised.
+
+Best-before dates are normally found on:
+* canned food, which is bacteria-free
+* dried food, in which bacteria cannot easily multiply
+* frozen food, which can be stored for several months in a freezer without spoiling.
+
+## Use-by dates
+
+All pre-packed food should display one of two date marks. These are either the:
+* ‘use-by’ date, or
+* ‘best-before’ date.
+
+Use-by dates are found on high-risk food likely to cause food poisoning including those that:
+* are ready to eat
+* are moist
+* are high in protein
+* require chilling
+* have a short shelf life.
+
+Once such food has passed its use-by date, it has exceeded the critical time limit within which it is considered safe. The number of bacteria might be enough to cause food poisoning, and that is why it is a criminal offence for a food business to sell any food past its use-by date.
+
+### What to do with food pat its date mark?
+
+**Dispose of it immediately**
+
+If an enforcement officer finds food past its use-by date at a food business, he will assume that it is for sale. This is against the law, and the business operator could be prosecuted. The only exception might be if the food is being held separately and is clearly marked ‘Not for human consumption’.
+
+Any food that has not been consumed by its use-by date must be disposed of immediately.
+
+
+ **Use with discretion**
+
+It is not against the law to sell products past their best-before dates. However, any such food must be carefully checked before being used, as both its quality and safety will be compromised. For instance, biscuits can go soft.
+
+## Safe food handling and storage conditions
+
+**Check the temperature**
+
+Check the temperature of chilled and frozen food on delivery to make sure it is within the limits set in the food safety management procedures. If it is not, you will probably need to reject the delivery and report it to your supervisor.
+
+
+**Put fresh food in the fridge quickly**
+When handling food or ingredients that would normally be refrigerated, always ensure that they are put back into the fridge as quickly as possible after preparation.
+
+## Chilled and frozen foods safe storage
+
+1. Clean
+* Clean the fridge (including its seals) regularly to avoid the build up of dirt and ensure efficiency. Defrost and clean the freezer regularly, to avoid ice build up and ensure efficient running.
+
+2. Prepare for storage
+* put food in food-safe containers
+* cover or wrap the food
+* label and date the food.
+
+3. Store properly
+* if raw and ready-to-eat foods are to be stored in the same unit, ensure that the raw food is put on the shelves below the ready-to-eat food (ideally, the foods should be stored in separate fridges or freezers)
+* put the items with the longest shelf-life behind or below those with the shortest shelf-life and use the items in date order
+* keep the food in the suppliers’ packaging and, once opened, reseal with care
+* if you have to re-wrap food, label it clearly noting the supplier, batch code, best before date, etc.
+* never put warm food in a fridge or freezer
+* don’t overstock
+* if stacking a walk-in unit, ensure that air can circulate and that the fan is not obstructed with stored product
+* stack tidily and immediately clean up any food spills.
+
+## Spotting storage hazards
+* Dirty vegetables in fridge - Clean the fridge regularly and defrost the freezer as necessary.
+* Food in opened tins - Put food in food-safe containers.
+* Uncovered/unwrapped food - Cover or properly wrap all food.
+* Unlabelled/undated food - label and date food. 
+* Contents in a mess - keep contents neat and tidy.
+* Overstocked - do not overstock fridge.
+* No order - use food in date order.
+* Warm food in fridge - do not put warm food in fridge.
+* Raw and ready to eat foods are randomly placed - make sure raw food id below the ready to eat food.
+
+## Dry goods safe storage
+
+Dry goods such as cereals, biscuits, flour and sugar, can also spoil if they are not stored in cool, dry conditions. Again, there are some simple rules to follow:
+
+* proper ventilation allows air to circulate and helps stop moulds and fungi from building up
+* proper lighting allows you to check for cleanliness, signs of pest infestation and date marks
+* dried goods should be kept off the floor and away from walls, ideally on shelving. This makes it much easier to clean underneath and around the goods, and provides access for pest control.
+
+Again, dried goods should be stored tidily and in date order.
+
+## Food allergy and intolerance
+
+A food that is perfectly safe for one person to eat may be extremely hazardous for another.
+ 
+**Food allergy**: Food allergy occurs when an individual’s immune system reacts to a food or a food additive. Food allergy affects a small number of adults and children. True allergic reactions are often mild but can be life threatening.
+ 
+**Food intolerance**: Food intolerance is different in that it does not affect the immune system and is not life threatening, (though long-term health can be affected). Nonetheless, the symptoms can be severe and include diarrhoea, bloating and anaemia.
+
+There are many foods that can cause an allergic reaction, those listed above, however, are responsible for 90% of allergic reactions within the UK.
+
+* Celery - including stalks, leaves, seeds and celeriac is commonly found in soups, salads, celery salt, some meat products. 
+* Cereals containing gluten - Gluten is found in wheat and some other cereals such as rye and barley. It is used in flour and thus bread, pasta, cakes, pastry, meat products, sauces, soups, batter, stock cubes, breadcrumbs and food dusted with flour.
+* Crustaceans - including prawns, crabs and lobsters, can also be found in other food for example - shrimp paste.
+* Eggs - many people are allergic to egg ang egg products. It is an ingredient in many cakes, mouses, sauces, pasta, quiche, some meat products, mayonnaise and foods brushed with egg wash.
+* Fish - Can also be found in pizza, salad dressings, relishes, fish and soy sauce and worcester sauce. 
+* Lupin - lupin flour is commonly found in bread, pastries, pies and batter for example - onion rings.
+* Milk - is a common cause of allergies. A person that is allergic to milk is also likely be allergic to products made from it including cream, cheese, butter, yoghurt and products such as pies glazed with milk.
+
+## Food allergy symptoms
+Food allergy symptoms are varied and range from being mild to potentially fatal.
+
+**Severe (anaphylactic)** reactions can cause the blood pressure and heart rate to become dangerously low. Without treatment, an affected individual can die within minutes.
+
+![1](https://user-images.githubusercontent.com/63247801/112478911-daa0ce00-8d4a-11eb-8ebc-7b7cd7767f28.PNG)
+
