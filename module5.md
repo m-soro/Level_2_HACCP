@@ -240,3 +240,23 @@ Food allergy symptoms are varied and range from being mild to potentially fatal.
 
 ![1](https://user-images.githubusercontent.com/63247801/112478911-daa0ce00-8d4a-11eb-8ebc-7b7cd7767f28.PNG)
 
+## Is there an allergen in the food?
+
+People with allergies need to know that the food they eat is free from even the tiniest amount of the allergens to which they are sensitive. Although a food may not contain a particular ingredient it may still cause an allergic reaction if it has been contaminated by the ingredient at some point in the process of preparation. 
+ 
+It is very important that people who handle, prepare or serve food understand how to control the risks posed by food allergies.
+
+* You must take care to ensure that you give the right information about ingredients to customers who ask. Never guess – if you don’t know, check with your supervisor
+* It is an offence to sell unsafe food, this includes giving wrong information regarding the presence of an allergen in food, by a misleading or incorrect label, on the menu or verbally.
+
+## Preventing allergen contamination
+As a food handler, you must be very careful not to accidentally contaminate food that is supposed to be free from allergens.
+
+One way to prevent this is to follow the same rules for preventing contamination that we covered earlier.
+
+You should:
+
+* carefully and thoroughly wash all equipment and your hands at the start and end of preparation
+* prepare allergen-free food in a separate area, and use equipment only for this purpose. Where separation isn’t possible, you should carefully and thoroughly clean the area, all equipment and your hands before preparing the food.
+
+
