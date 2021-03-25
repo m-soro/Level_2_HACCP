@@ -2,9 +2,9 @@
 Title: LEVEL 2 HACCP
 nav_order: 1
 ---
-# LEVEL 2 HACCP
+# Level II HACCP
 
-## Mark Soro's Certificate and modules. 
+## Mark Soro certificate and modules for:
 
 ## Mandarin Oriental-Washington-Level 2 Food Safety in Catering
 
